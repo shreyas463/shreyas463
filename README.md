@@ -6,6 +6,8 @@
 
 ## Thanks for stopping by! 👋
 
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+a+Full+Stack+Developer)
+
 ### I'm a Full Stack Developer
 
 ```javascript
