@@ -2,8 +2,13 @@
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shreyas463&color=blue)
-<pre>
-<code style="color:orange;">
+
+
+# Bio
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyas-chaudhary-599839282/)
+
+```javascript
 class Shreyas {
   constructor(coffee) {
     this.name = 'Shreyas Chaudhary';
@@ -29,11 +34,20 @@ class Shreyas {
     this.terminals = ['Git', 'Ubuntu'];
     this.tools = ['Github', 'Gitlab', 'Bitbucket', 'VSCode'];
   }
+
+  giveCoffee(newCoffee) {
+    this.coffee = newCoffee;
+  }
+
+  coffeeSupply() {
+    if(this.coffee === null) {
+      return 'Yes, please!';
+    }
+    return 'No, thank you';
+  }
 }
-</code>
-</pre>
 
-
+const hired = new Shreyas('cold brew');
  
 
 
