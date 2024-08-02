@@ -1,6 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+a+Full+Stack+Developer)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78927&width=435&lines=Thanks+for+Stopping+by!+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4618F7&background=7DFFD500&center=true&vCenter=true&width=435&lines=I'm+a+Full+Stack+Web+Developer%2C;React+Engineer%2C+;and+Data+enthusiast.;Currently+pursuing+MS+in+CS+;Have+an+Awesome+Day!)](https://git.io/typing-svg)
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shreyas463&color=blue)
