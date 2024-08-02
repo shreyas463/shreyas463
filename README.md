@@ -4,10 +4,10 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+a+Full+Stack+Developer)
 
+### I'm a Full Stack Developer
 
-
-<pre>
-<code style="color:orange;">
+```html
+<pre style="color:orange;">
 class Shreyas {
   constructor(coffee) {
     this.name = 'Shreyas Chaudhary';
@@ -47,8 +47,8 @@ class Shreyas {
 }
 
 const hired = new Shreyas('cold brew');
-</code>
 </pre>
+
 
 ### Contact Information
 
