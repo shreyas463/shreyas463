@@ -5,18 +5,6 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+a+Full+Stack+Developer)
 
 
-# Shreyas Chaudhary
-
-**MS-CS at California State Polytechnic University, Pomona**
-
-![Profile Views](https://komarev.com/ghpvc/?username=shreyas463&color=blue)
-
-## Thanks for stopping by! 👋
-
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+a+Full+Stack+Developer)
-
-### I'm a Full Stack Developer
-
 ```html
 <pre style="color:orange;">
 class Shreyas {
