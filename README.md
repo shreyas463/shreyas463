@@ -1,14 +1,9 @@
-# Shreyas Chaudhary
-
-**MS-CS at California State Polytechnic University, Pomona**
-
 ![Profile Views](https://komarev.com/ghpvc/?username=shreyas463&color=blue)
 
 ## Thanks for stopping by! 👋
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+a+Full+Stack+Developer)
 
-### I'm a Full Stack Developer
 
 <pre style="color:orange;">
 class Shreyas {
@@ -58,7 +53,7 @@ const hired = new Shreyas('cold brew');
 - 🔗 [LinkedIn](https://www.linkedin.com/in/shreyas-chaudhary-599839262/)
 - 🌍 Location: Pomona, California
 
-## Achievements
+
 
 ![Achievements](https://github.com/shreyas463/github-stats/blob/master/achievements.png)
 
