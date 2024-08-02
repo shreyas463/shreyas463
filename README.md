@@ -1,13 +1,14 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=36&pause=1000&color=4618F7&background=7DFFD500&center=true&vCenter=true&width=435&lines=I'm+a+Full+Stack+Web+Developer%2C;React+Engineer%2C+;and+Data+enthusiast.;Currently+pursuing+MS+in+CS+;Have+an+Awesome+Day!)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=36&pause=1000&color=4618F7&background=7DFFD500&center=true&vCenter=true&width=435&lines=I'm+a+Full+Stack+Web+Developer%2C;React+Engineer%2C+;and+Data+enthusiast.;Currently+pursuing+MS+in+CS+;Have+an+Awesome+Day!)](https://git.io/typing-svg)
 
-
-![Profile Views](https://komarev.com/ghpvc/?username=shreyas463&color=blue)
-
-
+![Shreyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyas463&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyas463&layout=compact&theme=radical)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6749F7&width=435&lines=Thank+you+for+Visiting!)](https://git.io/typing-svg)
 
 # Bio
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyas-chaudhary-599839282/)
+
+![Profile Views](https://komarev.com/ghpvc/?username=shreyas463&color=blue)
 
 ```javascript
 class Shreyas {
@@ -50,6 +51,4 @@ class Shreyas {
 
 const hired = new Shreyas('cold brew');
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=36&pause=1000&vCenter=true&width=435&lines=Thank+you+for+Visting!)](https://git.io/typing-svg)
 
