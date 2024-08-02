@@ -48,11 +48,13 @@ class Shreyas {
 }
 
 const hired = new Shreyas('cold brew');
- 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6749F7&width=435&lines=Thank+you+for+Visiting!)](https://git.io/typing-svg)
 
 ## GitHub Stats
+
 ![Shreyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyas463&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyas463&layout=compact&theme=radical)
 
 
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6749F7&width=435&lines=Thank+you+for+Visiting!)](https://git.io/typing-svg)
