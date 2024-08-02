@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78927&width=435&lines=Thanks+for+Stopping+by!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 
-
+![Profile Views](https://komarev.com/ghpvc/?username=shreyas463&color=blue)
 <pre>
 <code style="color:orange;">
 class Shreyas {
@@ -40,6 +40,5 @@ class Shreyas {
 
 
 ## GitHub Stats
-![Profile Views](https://komarev.com/ghpvc/?username=shreyas463&color=blue)
 ![Shreyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyas463&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyas463&layout=compact&theme=radical)
