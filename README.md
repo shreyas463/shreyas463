@@ -55,7 +55,7 @@ const hired = new Shreyas('cold brew');
 
 
 
-![Achievements](https://github.com/shreyas463/github-stats/blob/master/achievements.png)
+!(https://github.com/shreyas463/github-stats/blob/master/achievements.png)
 
 ## GitHub Stats
 
