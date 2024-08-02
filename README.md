@@ -36,21 +36,7 @@ class Shreyas {
     this.tools = ['Github', 'Gitlab', 'Bitbucket', 'VSCode'];
   }
 
-  giveCoffee(newCoffee) {
-    this.coffee = newCoffee;
-  }
-
-  coffeeSupply() {
-    if(this.coffee === null) {
-      return 'Yes, please!';
-    }
-    return 'No, thank you';
-  }
-}
-
-const hired = new Shreyas('cold brew');
-</code>
-</pre>
+ 
 
 
 ## GitHub Stats
