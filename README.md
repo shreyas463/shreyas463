@@ -55,8 +55,6 @@ const hired = new Shreyas('cold brew');
 
 
 
-!(https://github.com/shreyas463/github-stats/blob/master/achievements.png)
-
 ## GitHub Stats
 
 ![Shreyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyas463&show_icons=true&theme=radical)
