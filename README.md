@@ -1,7 +1,3 @@
-# Shreyas Chaudhary
-
-**MS-CS at California State Polytechnic University, Pomona**
-
 ![Profile Views](https://komarev.com/ghpvc/?username=shreyas463&color=blue)
 
 ## Thanks for stopping by! 👋
