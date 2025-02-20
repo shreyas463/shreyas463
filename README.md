@@ -1,7 +1,10 @@
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=36&pause=1000&color=4618F7&background=7DFFD500&center=true&vCenter=true&width=435&lines=I'm+a+Full+Stack+Web+Developer%2C;React+Engineer%2C+;and+Data+enthusiast.;Currently+pursuing+MS+in+CS+;Have+an+Awesome+Day!)](https://git.io/typing-svg)
+##  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=36&pause=1000&color=4618F7&background=7DFFD500&center=true&vCenter=true&width=435&lines=I'm+a+Full+Stack+Web+Developer%2C;React+Engineer%2C+;and+Data+enthusiast.;Currently+pursuing+MS+in+CS+;Have+an+Awesome+Day!)](https://git.io/typing-svg)
 
-![Shreyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyas463&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyas463&layout=compact&theme=radical)
+#  ![Shreyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyas463&show_icons=true&theme=radical)
+
+ ## ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyas463&layout=compact&theme=radical)
+
+
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6749F7&width=435&lines=Thank+you+for+Visiting!)](https://git.io/typing-svg)
 
 # Bio
