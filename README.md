@@ -12,7 +12,8 @@
 
 - 📫 I'm currently practising **LeetCode Problems**
 
-- 👨‍💻 All of my projects are available at [github.com/shreyas463]([github.com/shreyas463](https://github.com/shreyas463))
+- 👨‍💻 All of my projects are available at [github.com/shreyas463](https://github.com/shreyas463)
+
 
 - 💬 Ask me about **anything tech related, I'm very happy if I can help.**
 
