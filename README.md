@@ -27,5 +27,9 @@
 
 
 
+### 📊 GitHub Stats:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=shreyas463&show_icons=true&locale=en&layout=compact)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shreyas463)
 
 
