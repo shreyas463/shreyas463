@@ -19,6 +19,14 @@
 
 - 📫 How to reach me **shreyaschaudhary3@gmail.com**
 
+<p>
+  <img
+    align="center"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=shreyas463&bg_color=0D1117&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true"
+    alt="shreyas463"
+  />
+</p>
+
 <p align="left">
 </p>
 
