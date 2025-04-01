@@ -8,6 +8,8 @@
 
 - 🔭 I’m currently working as **Research Assistant** at the **Autonomous Vehicle Lab** & the **CALSys Lab** at **Cal Poly Pomona**!
 
+- I'm trying to learn about RAG AND MCP!
+
 - 🌱 I’m currently learning **DevOps** especially for scaling and running software on production and also studying for **Certified Cloud Practitioner Exam**!
 
 - 📫 I'm currently practising **LeetCode Problems**
