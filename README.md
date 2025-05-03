@@ -6,6 +6,8 @@
 
 <h3 align="center">A passionate Software Engineer</h3>
 
+*** currently busy finishing college assignments and exams as I graduate this May 17th! ***
+
 - 🔭 I’m currently working as **Research Assistant** at the **Autonomous Vehicle Lab** & the **CALSys Lab** at **Cal Poly Pomona**!
 
 - I'm trying to learn about RAG AND MCP!
