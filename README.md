@@ -6,13 +6,14 @@
 
 <h3 align="center">A passionate Software Engineer</h3>
 
-*** currently busy finishing college assignments and exams as I graduate this May 17th! ***
+***  I graduated on May 17th, 2025 with a MS in CS! ***
+*** Interning at Globallogic right now***
 
 - 🔭 I’m currently working as **Research Assistant** at the **Autonomous Vehicle Lab** & the **CALSys Lab** at **Cal Poly Pomona**!
 
 - I'm trying to learn about RAG AND MCP!
 
-- 🌱 I’m currently learning **DevOps** especially for scaling and running software on production and also studying for **Certified Cloud Practitioner Exam**!
+- studying for **Certified Cloud Practitioner Exam**!
 
 - 📫 I'm currently practising **LeetCode Problems**
 
