@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working as **Research Assistant** at the **Autonomous Vehicle Lab** & the **CALSys Lab** at **Cal Poly Pomona**!
 
-- I'm trying to learn about RAG AND MCP!
+- MCP's are super cool!
 
 - studying for **Certified Cloud Practitioner Exam**!
 
