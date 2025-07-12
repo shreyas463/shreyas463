@@ -6,16 +6,18 @@
 
 <h3 align="center">A passionate Software Engineer</h3>
 
-***  I graduated on May 17th, 2025 with a MS in CS! ***
-*** Interning at Method right now***
+`Interning at Method right now`
+
+`I graduated on May 17th, 2025 with a MS in CS!`
+
 
 - 🔭 I have worked as a **Research Assistant** at the **Autonomous Vehicle Lab** & volunteered at the **CALSys Lab** at **Cal Poly Pomona**!
 
-- MCP's are super cool!
+- `Busy playing around with Cursor, windsurf, grok and other AI tools`
 
 - studying for **Certified Cloud Practitioner Exam**!
 
-- 📫 I'm currently practising **LeetCode Problems**
+- 📫 Trying to practise **LeetCode Problems** whenever possible!
 
 - 👨‍💻 All of my projects are available at [github.com/shreyas463](https://github.com/shreyas463)
 
