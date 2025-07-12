@@ -7,9 +7,9 @@
 <h3 align="center">A passionate Software Engineer</h3>
 
 ***  I graduated on May 17th, 2025 with a MS in CS! ***
-*** Interning at Globallogic right now***
+*** Interning at Method right now***
 
-- 🔭 I’m currently working as **Research Assistant** at the **Autonomous Vehicle Lab** & the **CALSys Lab** at **Cal Poly Pomona**!
+- 🔭 I have worked as a **Research Assistant** at the **Autonomous Vehicle Lab** & volunteered at the **CALSys Lab** at **Cal Poly Pomona**!
 
 - MCP's are super cool!
 
@@ -19,8 +19,6 @@
 
 - 👨‍💻 All of my projects are available at [github.com/shreyas463](https://github.com/shreyas463)
 
-
-- 💬 Ask me about **anything tech related, I'm very happy if I can help.**
 
 - 📫 How to reach me **shreyaschaudhary3@gmail.com**
 
