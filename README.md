@@ -6,7 +6,10 @@
 
 <h3 align="center">A passionate Software Engineer</h3>
 
-`Interning at Method right now`
+
+`Interning at Walgreens right now` 
+
+`Interned at Method (2025), GlobalLogic(2024)`
 
 `I graduated on May 17th, 2025 with a MS in CS!`
 
