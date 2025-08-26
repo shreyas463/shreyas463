@@ -7,7 +7,7 @@
 <h3 align="center">A passionate Software Engineer</h3>
 
 
-`Interning at Walgreens right now` 
+`Interning at Walgreens right now as a Software Development Engineer!` 
 
 `Interned at Method (2025), GlobalLogic(2024)`
 
@@ -18,7 +18,6 @@
 
 - `Busy playing around with Cursor, windsurf, grok and other AI tools`
 
-- studying for **Certified Cloud Practitioner Exam**!
 
 - 📫 Trying to practise **LeetCode Problems** whenever possible!
 
