@@ -29,25 +29,16 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shreyas463/shreyas463/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=shreyas463&bg_color=0D1117&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true"
+    alt="GitHub Activity Graph"
+  />
 </p>
 
----
-
-## 🛠️ Languages & Tools
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=android,aws,bootstrap,c,circleci,cpp,css,docker,express,firebase,go,heroku,html,ionic,java,js,jest,mongodb,mssql,mysql,nodejs,py,pytorch,qt,react,redux&theme=dark" />
-  </a>
-</p>
-
----
-
-## 📊 GitHub Stats & Coding Activity
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyas463&show_icons=true&locale=en&layout=compact&cache_seconds=1&bust=20260427" alt="Top Languages"/>
@@ -55,8 +46,4 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyas463" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=shreyas463&layout=compact" alt="WakaTime Stats" />
 </p>
