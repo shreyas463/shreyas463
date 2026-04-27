@@ -7,7 +7,7 @@
 <h3 align="center">A passionate Software Engineer</h3>
 
 
-`Interning at Walgreens right now as a Software Development Engineer in Test (SDET)!` 
+`Interned at Walgreens from Aug 2025 - May 2026 as a Software Development Engineer in Test (SDET)!` 
 
 `Interned at Method (2025), GlobalLogic(2024)`
 
