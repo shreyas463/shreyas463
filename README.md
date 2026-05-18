@@ -17,7 +17,7 @@
 - 💼 **Software Development Engineer in Test (SDET) Intern** at **Walgreens** *(Aug 2025 – May 2026)*
 - 🏢 Previously interned at **Method** *(2025)* and **GlobalLogic** *(2024)*
 - 🔭 Ex Research Assistant at the **Autonomous Vehicle Lab** & volunteer at the **CALSys Lab** at **Cal Poly Pomona**
-- 🤖 Exploring AI tools like Cursor, Windsurf, Grok, and more
+- 🤖 Passionate about agentic AI
 
 ---
 
