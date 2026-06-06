@@ -13,10 +13,10 @@
 ## 🎓 About Me
 
 - 🎓 Graduated **May 17th, 2025** with an **MS in Computer Science**
-- 💼 **Test Engineer 1, Quality Assurance** at **GlobalLogic - Walgreens**
+- 💼 **Software Development Engineer** at **GlobalLogic - Walgreens**
 - 💼 **Software Development Engineer in Test (SDET) Intern** at **Walgreens** *(Aug 2025 – May 2026)*
-- 🏢 Previously interned at **Method** *(2025)* and **GlobalLogic** *(2024)*
-- 🔭 Ex Research Assistant at the **Autonomous Vehicle Lab** & volunteer at the **CALSys Lab** at **Cal Poly Pomona**
+- 🏢 Previously interned at **Method** *(2025)* and ***Method** *(2024)*
+- 🔭 Ex - Computer Science Researcher at the **Autonomous Vehicle Lab** & Researcher at the **CALSys Lab** at **Cal Poly Pomona**
 - 🤖 Passionate about agentic AI
 
 ---
