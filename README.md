@@ -12,6 +12,8 @@
 
 ## 🎓 About Me
 
+- Looking for new roles in backend, full-stack or AI engineer  
+- #OpenToWork
 - 🎓 Graduated **May 17th, 2025** with an **MS in Computer Science**
 - 💼 **Software Development Engineer** at **GlobalLogic - Walgreens**
 - 🔭 Ex - Computer Science Researcher at the **Autonomous Vehicle Lab** & Researcher at the **CALSys Lab** at **Cal Poly Pomona**
