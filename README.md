@@ -1,49 +1,19 @@
 <h1 align="center">Hi 👋, I'm Shreyas Chaudhary</h1>
-<h3 align="center">Passionate Software Engineer | MS in Computer Science</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shreyas-chaudhary-599839282/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=shreyas463&color=blue" alt="Profile Views"/>
+  <a href="https://shreyaschaudhary.netlify.app/"><b>Portfolio</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/shreyaschaudharysc/"><b>LinkedIn</b></a>
 </p>
 
----
-
-## 🎓 About Me
-
-- Looking for new roles in backend, full-stack or AI engineer  
-- #OpenToWork
-- 🎓 Graduated **May 17th, 2025** with an **MS in Computer Science**
-- 💼 **Software Development Engineer** at **GlobalLogic - Walgreens**
-- 🔭 Ex - Computer Science Researcher at the **Autonomous Vehicle Lab** & Researcher at the **CALSys Lab** at **Cal Poly Pomona**
-- 🤖 Passionate about agentic AI
-
----
-
-## 🔗 Connect & Find My Work
-
-- 👨‍💻 All projects: [github.com/shreyas463](https://github.com/shreyas463)
-- 📫 Reach me at: **shreyaschaudhary3@gmail.com**
-- 🧩 Practicing **LeetCode** problems whenever possible!
-
----
-
-## 📈 GitHub Activity
+<table align="center">
+  <tr>
+    <td valign="top"><img src="avi-ascii.svg" width="370" alt="ASCII portrait of Shreyas typing itself in like a terminal"/></td>
+    <td valign="top"><img src="info-card.svg" width="490" alt="neofetch-style info card: experience, stack, highlights"/></td>
+  </tr>
+</table>
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=shreyas463&bg_color=0D1117&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true"
-    alt="GitHub Activity Graph"
-  />
-</p>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyas463&show_icons=true&locale=en&layout=compact&cache_seconds=1&bust=20260427" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyas463" alt="GitHub Streak"/>
+  <img src="contrib-heatmap.svg" width="880" alt="Contribution heatmap with streak stats, refreshed daily"/>
 </p>

@@ -1,0 +1,7 @@
+# One-time local image prep (prep_photo.py + make_ascii_svg.py + make_info_card.py).
+# The daily CI workflow only needs scripts/requirements.txt.
+pillow
+numpy
+opencv-python
+rembg
+onnxruntime
