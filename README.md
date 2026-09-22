@@ -21,14 +21,11 @@
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=shreyas463&bg_color=0D1117&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true"
-    alt="GitHub Activity Graph"
-  />
+  <img src="activity-graph.svg" width="880" alt="Contribution activity over the last 31 days, refreshed daily"/>
 </p>
 
 ## 🖱️ Prev Cursor Stats (switched to Claude Code / Codex now)
 
 <p align="center">
-  <img src="cursor-2025-stats.png" width="480" alt="Cursor 2025 stats: top models Claude 3.7 Sonnet, Claude 3.5 Sonnet, Auto; 463 agents, 245.6M tokens, 7-day streak"/>
+  <img src="cursor-2025-stats.png" width="300" alt="Cursor 2025 stats: top models Claude 3.7 Sonnet, Claude 3.5 Sonnet, Auto; 463 agents, 245.6M tokens, 7-day streak"/>
 </p>
