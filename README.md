@@ -26,3 +26,9 @@
     alt="GitHub Activity Graph"
   />
 </p>
+
+## 🖱️ Prev Cursor Stats (switched to Claude Code / Codex now)
+
+<p align="center">
+  <img src="cursor-2025-stats.png" width="480" alt="Cursor 2025 stats: top models Claude 3.7 Sonnet, Claude 3.5 Sonnet, Auto; 463 agents, 245.6M tokens, 7-day streak"/>
+</p>
