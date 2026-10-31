@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreyas Chaudhary</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">dressing up as “full stack engineer” this year. still an sdet underneath. method acting</h3>
 
 <p align="center">
   <a href="https://shreyaschaudhary.netlify.app/"><b>Portfolio</b></a>
